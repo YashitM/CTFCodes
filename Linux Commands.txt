@@ -1,0 +1,2 @@
+BruteForcing Zip Passwords: 
+$ fcrackzip -u -D -p "./rockyou.txt" misc.zip
